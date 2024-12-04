@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogoonleboot/
+
+User-agent: *
+Allow: /
+
+Sitemap: url/sitemap.xml
